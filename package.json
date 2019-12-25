@@ -1,0 +1,25 @@
+{
+  "name": "audiovisual",
+  "version": "1.0.0",
+  "description": "Media-player whith visual effects\r To start:\r 1) npm install\r 2) node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohaa/AudioVisual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prohaa/AudioVisual/issues"
+  },
+  "homepage": "https://github.com/prohaa/AudioVisual#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "express": "^4.17.1",
+    "paper": "^0.12.4"
+  }
+}
